@@ -3,7 +3,7 @@ import { Movie } from "./models/Movies";
 export const movies: Movie[] = [
   {
     id: 1,
-    name: 'Avengers: Endgame(INOX)',
+    name: 'FAST X(INOX)',
     language: 'English',
     ticketCost: 200,
     rows: 20,
@@ -20,7 +20,7 @@ export const movies: Movie[] = [
   },
   {
     id: 2,
-    name: 'Uri: The Surgical Strike(PVR)',
+    name: 'Pathaan(PVR)',
     language: 'Hindi',
     ticketCost: 200,
     rows: 20,
@@ -37,8 +37,8 @@ export const movies: Movie[] = [
   },
   {
     id: 3,
-    name: 'KGF: Chapter 1(Cinepolis)',
-    language: 'Kannada',
+    name: 'Ant-Man and the Wasp: Quantumania(Cinepolis)',
+    language: 'English',
     ticketCost: 200,
     rows: 20,
     cols: 6,
@@ -54,8 +54,8 @@ export const movies: Movie[] = [
   },
   {
     id: 4,
-    name: 'Master(PVR)',
-    language: 'Tamil',
+    name: 'John Wick: Chapter 4(PVR)',
+    language: 'English',
     ticketCost: 200,
     rows: 20,
     cols: 6,
@@ -71,8 +71,8 @@ export const movies: Movie[] = [
   },
   {
     id: 5,
-    name: 'Bahubali: The beginning(INOX)',
-    language: 'Telugu',
+    name: 'Tu Jhoothi Main Makkaar(INOX)',
+    language: 'Hindi',
     ticketCost: 200,
     rows: 20,
     cols: 6,
